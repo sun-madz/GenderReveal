@@ -1,0 +1,25 @@
+@import url('https://fonts.googleapis.com/css2?family=Playwrite+IS:wght@100..400&display=swap');
+
+.bg {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: antiquewhite;
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2), 0 6px 20px 0 rgba(0, 0, 0, 0.19);
+    border-style: double;
+}
+
+/*.bg{
+    background-color: antiquewhite;
+    border-style: dotted;
+}*/
+.words{
+    font-family: "Playwrite IS", cursive;
+    font-optical-sizing: auto;
+    font-weight: 100%;
+    font-style: normal;
+    color: #000000;
+    padding: 50px;
+    align-self: center;
+} 
