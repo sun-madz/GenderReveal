@@ -15,6 +15,10 @@
     border-style: dotted;
 }*/
 .words{
+    display:flex;
+    flex-wrap: wrap;
+    gap: 6px;
+    flex: 1 0 130px;
     font-family: "Playwrite IS", cursive;
     font-optical-sizing: auto;
     font-weight: 100%;
